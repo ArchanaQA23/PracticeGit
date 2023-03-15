@@ -17,6 +17,7 @@ public class HashSetDemo {
 		
 		System.out.println(a);
 		
+		System.out.println("Reg functionality added by nirosha ");
 	   boolean contains = a.contains("Tech");
 	   System.out.println(contains);
 	   
