@@ -22,6 +22,9 @@ public class ArrayListDemo {
 		
 		System.out.println(a);
 		
+		System.out.println("Adding another file");
+		
+		
 		int y = a.indexOf(90);
 		System.out.println(y);
 		
